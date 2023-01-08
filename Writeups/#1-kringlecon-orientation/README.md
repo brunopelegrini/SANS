@@ -13,16 +13,16 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Steps
 
-This is my first time in a CTF and I believe that when a person write a writeup they learned a lot! 
+This challenge is very easy and simple, consist in only one command.
+In the Raspberry terminal, type:
+  ```sh
+  answer
+  ```
+Then, press Enter.
 
-Here's why:
-* For help you, help another peoples that have asks about this topic.
-* To help me, with english language, with written and learn about another topics of technology.
-* For help community of technology that searching for articles with details.
-* Documented this fun challenge :smile:
-* Because:
+Congratulations, You finished your first challenge!
 
 <div align="center">
         <img src="https://github.com/brunopelegrini/SANS-Holiday-Hack-Challenge-2022/blob/main/Writeups/%231-kringlecon-orientation/images/1.png" alt="Logo" width="810" height="784">
