@@ -30,4 +30,4 @@ Then, press Enter.
 
 Congratulations, You finished your first challenge!
 
-Go to Next!
+<p align="right">(<a href="https://github.com/brunopelegrini/SANS-Holiday-Hack-Challenge-2022/blob/main/Writeups/%232-wireshark-practice">Go to Next</a>)</p>
