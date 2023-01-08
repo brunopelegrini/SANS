@@ -31,9 +31,9 @@ Here's why:
 * Documented this fun challenge :smile:
 * Because:
 
-  <a href="https://2022.kringlecon.com">
-    <img src="images/Completed.png" alt="Logo" width="606" height="105">
-  </a>
+<div align="center">
+        <img src="images/Completed.png" alt="Logo" width="606" height="105">
+</div>
 
 <!-- CONTACT -->
 ## Contact
