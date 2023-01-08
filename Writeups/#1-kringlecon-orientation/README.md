@@ -8,7 +8,7 @@
   <h3 align="center">Kringlecon Orientation</h3>
 
   <a href="https://2022.kringlecon.com">
-    <img src="https://github.com/brunopelegrini/SANS-Holiday-Hack-Challenge-2022/Writeups/#1-kringlecon-orientation/images/0.png" alt="Logo" width="680" height="385">
+    <img src="https://github.com/brunopelegrini/SANS-Holiday-Hack-Challenge-2022/blob/main/Writeups/%231-kringlecon-orientation/images/0.png" alt="Logo" width="680" height="385">
   </a>
 </div>
 
@@ -25,7 +25,7 @@ Here's why:
 * Because:
 
 <div align="center">
-        <img src="https://github.com/brunopelegrini/SANS-Holiday-Hack-Challenge-2022/Writeups/#1-kringlecon-orientation/images/1.png" alt="Logo" width="606" height="105">
+        <img src="https://github.com/brunopelegrini/SANS-Holiday-Hack-Challenge-2022/blob/main/Writeups/%231-kringlecon-orientation/images/1.png" alt="Logo" width="606" height="105">
 </div>
 
 <!-- CONTACT -->
