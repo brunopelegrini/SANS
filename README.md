@@ -12,9 +12,9 @@
   </a>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Find in the link below, the step-by-step for complete this challenge!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the write-ups! »</strong></a>
+    <a href="https://github.com/brunopelegrini/SANS-Holiday-Hack-Challenge-2022/tree/main/Writeups"><strong>Explore the write-ups! »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
