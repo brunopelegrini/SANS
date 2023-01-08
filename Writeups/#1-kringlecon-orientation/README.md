@@ -25,7 +25,7 @@ Here's why:
 * Because:
 
 <div align="center">
-        <img src="https://github.com/brunopelegrini/SANS-Holiday-Hack-Challenge-2022/blob/main/Writeups/%231-kringlecon-orientation/images/1.png" alt="Logo" width="606" height="105">
+        <img src="https://github.com/brunopelegrini/SANS-Holiday-Hack-Challenge-2022/blob/main/Writeups/%231-kringlecon-orientation/images/1.png" alt="Logo" width="810" height="784">
 </div>
 
 <!-- CONTACT -->
