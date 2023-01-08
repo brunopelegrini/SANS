@@ -32,7 +32,7 @@ Here's why:
 * Because:
 
 <div align="center">
-        <img src="images/Completed.png" alt="Logo" width="606" height="105">
+        <img src="images/Completed.png" alt="Logo" width="606" height="125">
 </div>
 
 <!-- CONTACT -->
