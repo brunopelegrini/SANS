@@ -32,7 +32,7 @@ Here's why:
 * Because:
 
   <a href="https://2022.kringlecon.com">
-    <img src="images/Completed.png" alt="Logo" width="680" height="125">
+    <img src="images/Completed.png" alt="Logo" width="606" height="105">
   </a>
 
 <!-- CONTACT -->
