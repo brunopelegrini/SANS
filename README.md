@@ -29,6 +29,11 @@ Here's why:
 * To help me, with english language, with written and learn about another topics of technology.
 * For help community of technology that searching for articles with details.
 * Documented this fun challenge :smile:
+* Because:
+
+  <a href="https://2022.kringlecon.com">
+    <img src="images/Completed.png" alt="Logo" width="680" height="125">
+  </a>
 
 <!-- CONTACT -->
 ## Contact
